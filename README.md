@@ -33,4 +33,3 @@ Revisar problemas passados para identifcar pontos de retrocesso. Sobretudo se o 
 - O PO passa a se aproriar da cultura, para explicar como o time funciona e como medir o trabalho do time
 - Quando o time diz não para trabalhos, ou negocia diretamente com o PO quando há muito trabalho por fazer.
 - Quando o time indica problemas internos nas retrospectivas
-- 
